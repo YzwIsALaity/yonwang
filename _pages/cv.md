@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * M.S. in Biostatistics, University of Washington, 2022
+  Advisor: [Jim Hughes](https://faculty.washington.edu/jphughes/) and [Helen Y. Chu](https://www.chulab.org/)
 * B.S. in Statistics, University of California, Los Angeles, 2020
+  Advisor: [Mathieu Bauchy](https://www.bauchy.com/) and [Hongquan Xu](http://www.stat.ucla.edu/~hqxu/)
 
-  
 
