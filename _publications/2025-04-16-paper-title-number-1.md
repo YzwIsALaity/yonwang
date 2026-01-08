@@ -2,8 +2,7 @@
 title: "Interpretation of coefficients in segmented regression for interrupted time series analyses"
 collection: publications
 category: manuscripts
-author: Yongzhe Wang, Narissa J. Nonzee, Haonan Zhang, Kimlin T. Ashing, Gaole Song, Catherine M. Crespi
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Yongzhe Wang, Narissa J. Nonzee, Haonan Zhang, Kimlin T. Ashing, Gaole Song, Catherine M. Crespi'
 date: 2025-04-16
 venue: 'BMC Medical Research Methodology'
 paperurl: 'https://link.springer.com/article/10.1186/s12874-025-02556-8'
