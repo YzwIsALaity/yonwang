@@ -7,50 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am Yongzhe 永哲 :) and a biostatistician from the [City of Hope Comprehensive Cancer Center](https://www.cityofhope.org/) with a passion for clinical and biomedical studies. I am very passionate about data visualization and believe that it is a powerful tool for communicating complex information in a way that is accessible to a wide range of audience.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Where I learned my skills...
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Before I joined in the City of Hope, I earned my Master of Science in biostatistics from the University of Washington (2022), where I had the privilege of being advised by [Jim Hughes](https://faculty.washington.edu/jphughes/) and [Helen Y. Chu](https://www.chulab.org/). During my time there, I actively participated in numerous research focused on combating the COVID-19 pandemic, spanning from epidemiological studies to molecular investigations. Prior to my graduate studies, I completed my Bachelor of Science in statistics at the University of California, Los Angeles (2020). At UCLA, I developed a keen interest in applying advanced machine learning models to gain insights into the behavior of concrete and cement, aiming to mitigate carbon emissions. I was fortunate to receive guidance from [Mathieu Bauchy](https://www.linkedin.com/in/bauchy/) and [Hongquan Xu](http://www.stat.ucla.edu/~hqxu/), who supported me in exploring this fascinating area of research.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+What I am doing now...
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I worked as a biostatistician at the City of Hope, focusing primarily on research related to women's cancers such as gynecologic cancer, breast cancer, and colorectal cancer. My goal was to investigate the disparities in cancer behavior based on various social determinants, such as race/ethnicity and insurance, as well as biological and molecular information, including genomics, proteomics, and cytokines. Additionally, I evaluated programs/trials aimed at translating scientific knowledge into community practice to reduce and eliminate inequalities in cancer outcomes. In my daily work, I frequently addressed questions like:
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. Are there disparities in cervical cancer survival rates among different race/ethnicity groups?
+2. Which mRNA expressions are highly associated with cancer behavior, and could they serve as new biomarkers?
+3. Does the cancer intervention effectively reduce patients' burdens and improve diagnosis?
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Similar cancer-related problems often arose in my work. Regardless of the specific question, statistical analysis played a crucial role in providing evidence to answer scientific inquiries. I employed various statistical methods, such as survival and longitudinal models, machine learning, experimental designs, and many other statistical models, integrating them to formulate effective solution pathways for each scientific question. In addition to my cancer-related research, I also conduct statistical analysis in computational neuroscience to explore the relationship between neuro signals and animal behaviors.
 
-**Markdown generator**
+What I am interested...
+======
+My research journey began with the application of variable importance, such as permutation importance and Shapley values, to investigate the impact of chemical compositions on the strength of concrete/cement. This experience sparked my interest in exploring variable importance for both semi-parametric and non-parametric models. As I delved into high-dimensional data from respiratory infectious diseases and cancer studies, which included RNA-seq, proteomics, and cytokine data, I became fascinated with understanding how variable importance can be incorporated into statistical models for such data types. Given the longitudinal nature and survival-related aspects of clinical and biomedical studies, I developed a specific interest in utilizing longitudinal and survival models to effectively handle high-dimensional data in practical scenarios. As I immersed myself in public health studies, I regularly encountered data analysis related to population science and epidemiology. I was intrigued by the prospect of adapting statistical models to accommodate data from diverse study designs and answer scientific inquiries. Regardless of the aforementioned research questions, I strongly believe that data visualization plays an integral role in explanatory data analysis. As a biostatistician, I am consistently passionate about enhancing data visualization techniques to suit various types of data.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+1. Theory: variable importance, longitudinal and survival analysis, high-dimensional statistics, non-parametric and semi-parametric regression, time-varying models, causal inferece in observational studies
+2. Application: biomarker discovery, infectious disease modeling, health disparity, observational and epidemiological studies, genomics data analysis, cancer, neuronal data analysis, data visualization
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Additionally, I have been practicing Chinese calligraphy for 19 years and continue to cherish this art form : ) 
