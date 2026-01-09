@@ -19,4 +19,6 @@ What I am interested...
 ======
 My interests center on causal inference and survival analysis for real-world clinical data, with a focus on breast cancer research using __EHR and multi-omics data__. I study cancer outcomes, treatment heterogeneity, and health disparities, with particular emphasis on biomarker discovery and clinically interpretable modeling. I am motivated by methodological problems that arise from routine clinical practice and by making complex analyses actionable through clear __data visualization__.
 
-___Additionally, I have been practicing Chinese calligraphy for 19 years and continue to cherish this art form___ : ) 
+_Additionally, I have been practicing Chinese calligraphy for 19 years and continue to cherish this art form_ : ) 
+
+_I previously maintained a_ [personal blog](https://yzwisalaity.github.io/) _with tutorials on using R (e.g., `ggplot2` and related packages) to produce publication-quality data visualizations for academic research; these posts predate the widespread availability of LLM-based tools and reflect my long-standing interest in principled scientific communication_.
