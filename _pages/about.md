@@ -17,7 +17,7 @@ A central part of my role involves developing and applying rigorous biostatistic
 
 What I am interested...
 ======
-My interests center on causal inference and survival analysis for real-world clinical data, with a focus on breast cancer research using __EHR and multi-omics data__. I study cancer outcomes, treatment heterogeneity, and health disparities, with particular emphasis on biomarker discovery and clinically interpretable modeling. I am motivated by methodological problems that arise from routine clinical practice and by making complex analyses actionable through clear __data visualization__.
+My interests center on causal inference and survival analysis for real-world clinical data, with a focus on __breast cancer__ research using __EHR and multi-omics data__. I study cancer outcomes, treatment heterogeneity, and health disparities, with particular emphasis on __biomarker discovery__ and clinically interpretable modeling. I am motivated by methodological problems that arise from routine clinical practice and by making complex analyses actionable through clear __data visualization__.
 
 _Additionally, I have been practicing Chinese calligraphy for 19 years and continue to cherish this art form_ : ) 
 
