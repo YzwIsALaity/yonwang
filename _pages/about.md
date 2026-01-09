@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yongzhe Wang (永哲), a biostatistician at [City of Hope Comprehensive Cancer Center](https://www.cityofhope.org/) working at the intersection of clinical research, cancer epidemiology, and statistical methodology. My work focuses on developing and applying rigorous statistical approaches to real-world biomedical data, with particular interests in survival analysis, high-dimensional modeling, and causal inference in observational settings. I am especially motivated by problems where statistical methods must align closely with clinical decision-making rather than operate as purely technical tools.
+I am Yongzhe (永哲), a biostatistician at [City of Hope Comprehensive Cancer Center](https://www.cityofhope.org/) working at the intersection of clinical research, cancer epidemiology, and statistical methodology. My work focuses on developing and applying rigorous statistical approaches to real-world biomedical data, with particular interests in survival analysis, high-dimensional modeling, and causal inference in observational settings. I am especially motivated by problems where statistical methods must align closely with clinical decision-making rather than operate as purely technical tools.
 
 What I am doing now...
 ======
@@ -21,4 +21,4 @@ My interests center on causal inference and survival analysis for real-world cli
 
 _Additionally, I have been practicing Chinese calligraphy for 19 years and continue to cherish this art form_ : ) 
 
-_I previously maintained a_ [personal blog](https://yzwisalaity.github.io/) _with tutorials on using R (e.g., `ggplot2` and related packages) to produce publication-quality data visualizations for academic research; these posts predate the widespread availability of LLM-based tools and reflect my long-standing interest in principled scientific communication_.
+_I previously maintained a_ [personal blog](https://yzwisalaity.github.io/) _with tutorials on using R (e.g.,_ `ggplot2` _and related packages) to produce publication-quality data visualizations for academic research; these posts predate the widespread availability of LLM-based tools and reflect my long-standing interest in principled scientific communication_.
