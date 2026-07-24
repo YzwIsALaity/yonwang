@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Incoming Ph.D. in Biomedical Sciences, New York University (Grossman School of Medicine)\
+* Incoming Ph.D. in Biomedical Sciences, New York University, Grossman School of Medicine\
 * M.S. in Biostatistics, University of Washington, Seattle, WA, 2022\
   Advisor: [Jim Hughes](https://faculty.washington.edu/jphughes/) and [Helen Y. Chu](https://www.chulab.org/)
 * B.S. in Statistics, University of California-Los Angeles (UCLA), Los Angeles, CA, 2020\
