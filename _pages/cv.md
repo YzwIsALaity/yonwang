@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Incoming Ph.D. in Biomedical Sciences, New York University (Grossman School of Medicine)\
 * M.S. in Biostatistics, University of Washington, Seattle, WA, 2022\
   Advisor: [Jim Hughes](https://faculty.washington.edu/jphughes/) and [Helen Y. Chu](https://www.chulab.org/)
 * B.S. in Statistics, University of California-Los Angeles (UCLA), Los Angeles, CA, 2020\
@@ -20,6 +21,6 @@ Employment
 ======
 * City of Hope Cancer Center, Duarte, CA\
   _Department of Surgery and Population Sciences_\
-  Biostatistician, 2022 - Present 
+  Biostatistician, 2022 - 2026 
 
 
