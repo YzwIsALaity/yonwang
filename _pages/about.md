@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Yongzhe (永哲), a biostatistician at [City of Hope Comprehensive Cancer Center](https://www.cityofhope.org/) working at the intersection of clinical research, cancer epidemiology, and statistical methodology. My work focuses on developing and applying rigorous statistical approaches to real-world biomedical data, with particular interests in survival analysis, high-dimensional modeling, and causal inference in observational settings. I am especially motivated by problems where statistical methods must align closely with clinical decision-making rather than operate as purely technical tools.
+I am Yongzhe (永哲), a Ph.D. student in Biomedical Sciences at the [Vilcek Institute of Graduate Biomedical Sciences](https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/), [NYU Grossman School of Medicine](https://med.nyu.edu). Before beginning my doctoral training, I spent four years as a biostatistician at [City of Hope Comprehensive Cancer Center](https://www.cityofhope.org/), working at the intersection of clinical research, cancer outcome, and statistical methodology. My research interests include biomarker discovery, survival analysis, high-dimensional modeling, and causal inference, particularly their application to real-world biomedical data and clinically meaningful questions.
 
 What I am doing now...
 ======
-I am currently a biostatistician at the cancer center, where I work on clinical and population-based cancer research with an emphasis on __breast cancer__ and other __hormone-related malignancies__. My work focuses on analyzing real-world clinical and registry-based observational data to understand __cancer outcomes__, __treatment patterns__, and __disparities__ across patient populations.
+I am currently pursuing my Ph.D. in Biomedical Sciences at NYU Grossman School of Medicine. Building on four years of experience as a biostatistician in cancer research, I am interested in developing and applying rigorous statistical methods to understand cancer outcomes, treatment patterns, and disparities across patient populations.
 
-A central part of my role involves developing and applying rigorous biostatistical methods—particularly __longitudinal and survival models__, __quasi-experimental designs__, and __causal inference__ approaches—to address questions that arise from routine clinical practice rather than idealized experimental settings. I frequently collaborate with clinicians and researchers to translate complex biomedical and clinical data into evidence that can inform treatment decisions, health policy, and future study design.
+My previous work focused primarily on __breast cancer__ and other __hormone-related malignancies__ using real-world clinical and registry-based observational data. Methodologically, my work has involved __longitudinal and survival models__, __quasi-experimental designs__, and __causal inference__ approaches. Through my doctoral training, I hope to deepen this methodological foundation and explore new ways to translate complex biomedical data into evidence that can inform clinical decisions, health policy, and future study design.
 
 What I am interested...
 ======
